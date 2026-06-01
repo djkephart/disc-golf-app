@@ -220,7 +220,7 @@
                       target="_blank"
                       class="flex-1 border border-white/10 text-gray-300 font-semibold px-4 py-2.5 rounded-full hover:bg-white/10 transition-colors duration-200 text-sm text-center"
                     >
-                      View on {disc.brand} ↗
+                      View on Infinite Discs ↗
                     </a>
                   </div>
                 </div>

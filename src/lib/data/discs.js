@@ -3,8 +3,6 @@ export const discs = [
   // ============================================================
   // INNOVA
   // ============================================================
-
-  // Innova - Distance Drivers
   {
     id: 1,
     name: "Destroyer",
@@ -14,7 +12,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Star, Champion, DX",
     description: "Innova's best-selling disc of all time. A powerful overstable distance driver trusted by players worldwide.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/distance-drivers/destroyer/"
+    url: "https://infinitediscs.com/innova-destroyer"
   },
   {
     id: 2,
@@ -25,7 +23,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Star, Champion, DX",
     description: "A versatile distance driver with great glide and a reliable overstable finish. Loved by all skill levels.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/distance-drivers/wraith/"
+    url: "https://infinitediscs.com/innova-wraith"
   },
   {
     id: 3,
@@ -36,7 +34,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Star, Champion",
     description: "A big arm distance driver built for maximum distance. Demands power to fly true.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/distance-drivers/boss/"
+    url: "https://infinitediscs.com/innova-boss"
   },
   {
     id: 4,
@@ -47,7 +45,7 @@ export const discs = [
     stability: "Understable",
     plastic: "Star, Champion",
     description: "A high speed understable driver with massive glide. Great for newer players and big rollers.",
-    url: "https://www.innovadiscs.com/disc/shryke/"
+    url: "https://infinitediscs.com/innova-shryke"
   },
   {
     id: 5,
@@ -58,10 +56,8 @@ export const discs = [
     stability: "Very Understable",
     plastic: "Star, Champion, DX",
     description: "One of the most understable drivers Innova makes. Perfect for big hyzer flips and roller shots.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/distance-drivers/mamba/"
+    url: "https://infinitediscs.com/innova-mamba"
   },
-
-  // Innova - Fairway Drivers
   {
     id: 6,
     name: "Teebird",
@@ -71,7 +67,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Star, Champion, DX",
     description: "One of Innova's most beloved fairway drivers. Straight with a reliable finish. An all-time classic.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/fairway-drivers/teebird/"
+    url: "https://infinitediscs.com/innova-teebird"
   },
   {
     id: 7,
@@ -82,7 +78,7 @@ export const discs = [
     stability: "Very Overstable",
     plastic: "Star, Champion, DX",
     description: "The go-to overstable fairway driver. Perfect for forehand throws and fighting headwinds.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/fairway-drivers/firebird/"
+    url: "https://infinitediscs.com/innova-firebird"
   },
   {
     id: 8,
@@ -93,7 +89,7 @@ export const discs = [
     stability: "Understable",
     plastic: "Star, Champion, DX",
     description: "The classic beginner fairway driver. Straight flying and forgiving for newer players.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/fairway-drivers/leopard/"
+    url: "https://infinitediscs.com/innova-leopard"
   },
   {
     id: 9,
@@ -104,7 +100,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Star, Champion, DX",
     description: "Innova's original fairway driver and one of the first discs designed specifically for disc golf.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/fairway-drivers/eagle/"
+    url: "https://infinitediscs.com/innova-eagle"
   },
   {
     id: 10,
@@ -115,10 +111,8 @@ export const discs = [
     stability: "Overstable",
     plastic: "Star, Champion",
     description: "A straight flying driver with a reliable finish. Great for headwinds and tight lines.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/fairway-drivers/thunderbird/"
+    url: "https://infinitediscs.com/innova-thunderbird"
   },
-
-  // Innova - Midranges
   {
     id: 11,
     name: "Roc3",
@@ -128,7 +122,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Star, Champion, DX",
     description: "The legendary Roc lineage continues. A reliable overstable midrange for all conditions.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/mid-range-drivers/roc3/"
+    url: "https://infinitediscs.com/innova-roc3"
   },
   {
     id: 12,
@@ -139,7 +133,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Star, Champion",
     description: "The straightest midrange ever made. Goes exactly where you throw it every time.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/mid-range-drivers/mako3/"
+    url: "https://infinitediscs.com/innova-mako3"
   },
   {
     id: 13,
@@ -150,10 +144,8 @@ export const discs = [
     stability: "Understable",
     plastic: "Star, Champion, DX",
     description: "An understable midrange with incredible glide. Great for long straight approaches.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/mid-range-drivers/wombat3/"
+    url: "https://infinitediscs.com/innova-wombat3"
   },
-
-  // Innova - Putters
   {
     id: 14,
     name: "Aviar",
@@ -163,7 +155,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Star, DX, Pro, KC Pro",
     description: "The most iconic disc golf putter of all time. Used by millions of players worldwide.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/putters-approach/aviar/"
+    url: "https://infinitediscs.com/innova-aviar"
   },
   {
     id: 15,
@@ -174,14 +166,12 @@ export const discs = [
     stability: "Very Overstable",
     plastic: "Star, R-Pro, DX",
     description: "An extremely overstable approach disc. Ideal for spike hyzers and forehand putts.",
-    url: "https://www.innovadiscs.com/home/disc-golf-discs/putters-approach/pig/"
+    url: "https://infinitediscs.com/innova-pig"
   },
 
   // ============================================================
   // DISCRAFT
   // ============================================================
-
-  // Discraft - Distance Drivers
   {
     id: 16,
     name: "Zeus",
@@ -191,7 +181,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "ESP, Z, Jawbreaker",
     description: "Paul McBeth's signature driver. Versatile and reliable for a wide range of players.",
-    url: "https://www.discraft.com/zeus.html"
+    url: "https://infinitediscs.com/discraft-zeus"
   },
   {
     id: 17,
@@ -202,7 +192,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "ESP, Z, Baseline",
     description: "Discraft's premier distance driver. One of the fastest discs on the market.",
-    url: "https://www.discraft.com/nuke.html"
+    url: "https://infinitediscs.com/discraft-nuke"
   },
   {
     id: 18,
@@ -213,7 +203,7 @@ export const discs = [
     stability: "Understable",
     plastic: "ESP, Z",
     description: "A high glide understable driver great for long sweeping hyzer flips.",
-    url: "https://www.discraft.com/anax.html"
+    url: "https://infinitediscs.com/discraft-anax"
   },
   {
     id: 19,
@@ -224,7 +214,7 @@ export const discs = [
     stability: "Understable",
     plastic: "ESP, Z",
     description: "The understable version of the Nuke. Great for big hyzer flips and long turnover shots.",
-    url: "https://www.discraft.com/nuke-ss.html"
+    url: "https://infinitediscs.com/discraft-nuke-ss"
   },
   {
     id: 20,
@@ -235,10 +225,8 @@ export const discs = [
     stability: "Neutral",
     plastic: "ESP, Z",
     description: "A newer flagship driver combining distance and control. A fast-growing fan favorite.",
-    url: "https://www.discraft.com/kratos.html"
+    url: "https://infinitediscs.com/discraft-kratos"
   },
-
-  // Discraft - Fairway Drivers
   {
     id: 21,
     name: "Surge SS",
@@ -248,7 +236,7 @@ export const discs = [
     stability: "Understable",
     plastic: "ESP, Z, Baseline",
     description: "A great understable fairway driver for newer players looking for more distance.",
-    url: "https://www.discraft.com/surge-ss.html"
+    url: "https://infinitediscs.com/discraft-surge-ss"
   },
   {
     id: 22,
@@ -259,7 +247,7 @@ export const discs = [
     stability: "Understable",
     plastic: "ESP, Z, Baseline",
     description: "One of Discraft's most beginner-friendly drivers with massive glide and easy distance.",
-    url: "https://www.discraft.com/heat.html"
+    url: "https://infinitediscs.com/discraft-heat"
   },
   {
     id: 23,
@@ -270,10 +258,8 @@ export const discs = [
     stability: "Overstable",
     plastic: "ESP, Z",
     description: "Paul McBeth's signature fairway driver. Overstable and great for forehand shots.",
-    url: "https://www.discraft.com/vulture.html"
+    url: "https://infinitediscs.com/discraft-vulture"
   },
-
-  // Discraft - Midranges
   {
     id: 24,
     name: "Buzzz",
@@ -283,7 +269,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "ESP, Z, Jawbreaker, Baseline",
     description: "The most popular midrange disc ever made. Straight, reliable, and beloved by all skill levels.",
-    url: "https://www.discraft.com/buzzz.html"
+    url: "https://infinitediscs.com/discraft-buzzz"
   },
   {
     id: 25,
@@ -294,7 +280,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "ESP, Z",
     description: "The overstable big brother of the Buzzz. Great for forehand approaches and headwinds.",
-    url: "https://www.discraft.com/buzzz-os.html"
+    url: "https://infinitediscs.com/discraft-buzzz-os"
   },
   {
     id: 26,
@@ -305,7 +291,7 @@ export const discs = [
     stability: "Understable",
     plastic: "ESP, Z, Baseline",
     description: "The understable Buzzz. Turns over more and carries further for players with slower arm speeds.",
-    url: "https://www.discraft.com/buzzz-ss.html"
+    url: "https://infinitediscs.com/discraft-buzzz-ss"
   },
   {
     id: 27,
@@ -316,7 +302,7 @@ export const discs = [
     stability: "Very Overstable",
     plastic: "ESP, Z, Jawbreaker",
     description: "Possibly the best forehand approach disc ever made. Extremely overstable and wind-resistant.",
-    url: "https://www.discraft.com/zone.html"
+    url: "https://infinitediscs.com/discraft-zone"
   },
   {
     id: 28,
@@ -327,10 +313,8 @@ export const discs = [
     stability: "Neutral",
     plastic: "ESP, Z",
     description: "The straighter flying version of the Zone. Offers the same feel with a more workable flight.",
-    url: "https://www.discraft.com/zone-ss.html"
+    url: "https://infinitediscs.com/discraft-zone-ss"
   },
-
-  // Discraft - Putters
   {
     id: 29,
     name: "Luna",
@@ -340,7 +324,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "ESP, Z, Jawbreaker, Special Blend",
     description: "Paul McBeth's signature putter. One of the most popular putters on the professional tour.",
-    url: "https://www.discraft.com/luna.html"
+    url: "https://infinitediscs.com/discraft-luna"
   },
   {
     id: 30,
@@ -351,7 +335,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "ESP, Z, Baseline",
     description: "A reliable overstable putter with a straight flight and dependable fade at the end.",
-    url: "https://www.discraft.com/banger-gt.html"
+    url: "https://infinitediscs.com/discraft-banger-gt"
   },
   {
     id: 31,
@@ -362,14 +346,12 @@ export const discs = [
     stability: "Neutral",
     plastic: "ESP, Z, Baseline",
     description: "A straight neutral putter great for beginners and players looking for consistency.",
-    url: "https://www.discraft.com/challenger.html"
+    url: "https://infinitediscs.com/discraft-challenger"
   },
 
   // ============================================================
   // DYNAMIC DISCS
   // ============================================================
-
-  // Dynamic Discs - Distance Drivers
   {
     id: 32,
     name: "Trespass",
@@ -379,7 +361,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Lucid, Classic, Fuzion",
     description: "Dynamic Discs' flagship driver. A reliable overstable workhorse for advanced players.",
-    url: "https://www.dynamicdiscs.com/trespass"
+    url: "https://infinitediscs.com/dynamic-discs-trespass"
   },
   {
     id: 33,
@@ -390,7 +372,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Lucid, Classic, Fuzion",
     description: "A versatile neutral driver that works for both hyzer flip and straight lines.",
-    url: "https://www.dynamicdiscs.com/maverick"
+    url: "https://infinitediscs.com/dynamic-discs-maverick"
   },
   {
     id: 34,
@@ -401,10 +383,8 @@ export const discs = [
     stability: "Understable",
     plastic: "Lucid, Classic",
     description: "A long range understable driver perfect for flex shots and tailwinds.",
-    url: "https://www.dynamicdiscs.com/enigma"
+    url: "https://infinitediscs.com/dynamic-discs-enigma"
   },
-
-  // Dynamic Discs - Fairway Drivers
   {
     id: 35,
     name: "Escape",
@@ -414,7 +394,7 @@ export const discs = [
     stability: "Understable",
     plastic: "Lucid, Classic, Fuzion",
     description: "A versatile understable fairway driver beloved by players of all skill levels.",
-    url: "https://www.dynamicdiscs.com/escape"
+    url: "https://infinitediscs.com/dynamic-discs-escape"
   },
   {
     id: 36,
@@ -425,7 +405,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Lucid, Classic, Fuzion",
     description: "A straight to slightly understable fairway driver. Great all-around utility disc.",
-    url: "https://www.dynamicdiscs.com/sheriff"
+    url: "https://infinitediscs.com/dynamic-discs-sheriff"
   },
   {
     id: 37,
@@ -436,10 +416,8 @@ export const discs = [
     stability: "Overstable",
     plastic: "Lucid, Classic",
     description: "An overstable fairway driver great for headwinds and forehand lines.",
-    url: "https://www.dynamicdiscs.com/renegade"
+    url: "https://infinitediscs.com/dynamic-discs-renegade"
   },
-
-  // Dynamic Discs - Midranges
   {
     id: 38,
     name: "Verdict",
@@ -449,7 +427,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Lucid, Classic, Fuzion",
     description: "A versatile neutral midrange that works for both backhand and forehand players.",
-    url: "https://www.dynamicdiscs.com/verdict"
+    url: "https://infinitediscs.com/dynamic-discs-verdict"
   },
   {
     id: 39,
@@ -460,7 +438,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Lucid, Classic, BioFuzion",
     description: "One of the most popular midranges in disc golf. Straight with excellent glide.",
-    url: "https://www.dynamicdiscs.com/truth"
+    url: "https://infinitediscs.com/dynamic-discs-truth"
   },
   {
     id: 40,
@@ -471,10 +449,8 @@ export const discs = [
     stability: "Overstable",
     plastic: "Lucid, Classic",
     description: "A reliable overstable midrange for approach shots and windy conditions.",
-    url: "https://www.dynamicdiscs.com/tactic"
+    url: "https://infinitediscs.com/dynamic-discs-tactic"
   },
-
-  // Dynamic Discs - Putters
   {
     id: 41,
     name: "Judge",
@@ -484,7 +460,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Lucid, Classic, Fuzion, BioFuzion",
     description: "One of the most popular putters in disc golf. Straight, reliable, and comfortable in hand.",
-    url: "https://www.dynamicdiscs.com/judge"
+    url: "https://infinitediscs.com/dynamic-discs-judge"
   },
   {
     id: 42,
@@ -494,8 +470,8 @@ export const discs = [
     speed: 2, glide: 4, turn: 0, fade: 2,
     stability: "Overstable",
     plastic: "Lucid, Classic, Fuzion",
-    description: "Eric McCabe's signature Judge with slightly more overstability. Great for windy puts.",
-    url: "https://www.dynamicdiscs.com/emac-judge"
+    description: "Eric McCabe's signature Judge with slightly more overstability. Great for windy putts.",
+    url: "https://infinitediscs.com/dynamic-discs-emac-judge"
   },
   {
     id: 43,
@@ -506,14 +482,12 @@ export const discs = [
     stability: "Neutral",
     plastic: "Lucid, Classic, Fuzion",
     description: "A straight flying putter with a beadless rim. Great for hyzer approaches and putting.",
-    url: "https://www.dynamicdiscs.com/warden"
+    url: "https://infinitediscs.com/dynamic-discs-warden"
   },
 
   // ============================================================
-  // MVP DISC SPORTS / AXIOM
+  // MVP DISC SPORTS
   // ============================================================
-
-  // MVP - Distance Drivers
   {
     id: 44,
     name: "Octane",
@@ -523,7 +497,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Neutron, Proton, Fission",
     description: "MVP's flagship distance driver. High speed with a reliable overstable finish.",
-    url: "https://mvpdiscsports.com/octane/"
+    url: "https://infinitediscs.com/mvp-octane"
   },
   {
     id: 45,
@@ -534,7 +508,7 @@ export const discs = [
     stability: "Understable",
     plastic: "Neutron, Proton, Fission",
     description: "A high speed understable driver with great glide. Perfect for hyzer flips and big arms.",
-    url: "https://mvpdiscsports.com/catalyst/"
+    url: "https://infinitediscs.com/mvp-catalyst"
   },
   {
     id: 46,
@@ -545,7 +519,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Neutron, Proton, Fission",
     description: "A powerful overstable driver with impressive glide. Built for big distance.",
-    url: "https://mvpdiscsports.com/photon/"
+    url: "https://infinitediscs.com/mvp-photon"
   },
   {
     id: 47,
@@ -556,36 +530,10 @@ export const discs = [
     stability: "Overstable",
     plastic: "Neutron, Fission",
     description: "MVP's highest speed driver. Massive distance potential for experienced throwers.",
-    url: "https://mvpdiscsports.com/teleport/"
+    url: "https://infinitediscs.com/mvp-teleport"
   },
-
-  // Axiom - Distance Drivers
   {
     id: 48,
-    name: "Tantrum",
-    brand: "Axiom Discs",
-    type: "Distance Driver",
-    speed: 13, glide: 5, turn: -1, fade: 3,
-    stability: "Overstable",
-    plastic: "Neutron, Proton, Plasma",
-    description: "Axiom's most overstable distance driver. Great for powerful forehand lines.",
-    url: "https://mvpdiscsports.com/tantrum/"
-  },
-  {
-    id: 49,
-    name: "Mayhem",
-    brand: "Axiom Discs",
-    type: "Distance Driver",
-    speed: 13, glide: 6, turn: -2, fade: 2,
-    stability: "Understable",
-    plastic: "Neutron, Proton, Plasma",
-    description: "A high glide understable driver ideal for maximum distance and hyzer flips.",
-    url: "https://mvpdiscsports.com/mayhem/"
-  },
-
-  // MVP - Midranges
-  {
-    id: 50,
     name: "Servo",
     brand: "MVP Disc Sports",
     type: "Midrange",
@@ -593,10 +541,10 @@ export const discs = [
     stability: "Neutral",
     plastic: "Neutron, Proton, Electron",
     description: "A neutral midrange with great glide. Versatile for approaches and off the tee.",
-    url: "https://mvpdiscsports.com/servo/"
+    url: "https://infinitediscs.com/mvp-servo"
   },
   {
-    id: 51,
+    id: 49,
     name: "Volt",
     brand: "MVP Disc Sports",
     type: "Midrange",
@@ -604,10 +552,10 @@ export const discs = [
     stability: "Neutral",
     plastic: "Neutron, Proton, Electron",
     description: "A reliable neutral midrange that handles a wide variety of shots with ease.",
-    url: "https://mvpdiscsports.com/volt/"
+    url: "https://infinitediscs.com/mvp-volt"
   },
   {
-    id: 52,
+    id: 50,
     name: "Reactor",
     brand: "MVP Disc Sports",
     type: "Midrange",
@@ -615,12 +563,10 @@ export const discs = [
     stability: "Understable",
     plastic: "Neutron, Proton, Electron",
     description: "An understable midrange with excellent glide. Great for turnover shots and long approaches.",
-    url: "https://mvpdiscsports.com/reactor/"
+    url: "https://infinitediscs.com/mvp-reactor"
   },
-
-  // MVP / Axiom - Putters
   {
-    id: 53,
+    id: 51,
     name: "Ion",
     brand: "MVP Disc Sports",
     type: "Putter",
@@ -628,10 +574,10 @@ export const discs = [
     stability: "Neutral",
     plastic: "Electron, Proton, Neutron",
     description: "MVP's most popular putter. Straight flying with a comfortable feel and soft plastic options.",
-    url: "https://mvpdiscsports.com/ion/"
+    url: "https://infinitediscs.com/mvp-ion"
   },
   {
-    id: 54,
+    id: 52,
     name: "Anode",
     brand: "MVP Disc Sports",
     type: "Putter",
@@ -639,7 +585,33 @@ export const discs = [
     stability: "Neutral",
     plastic: "Electron, Soft Electron",
     description: "A beadless neutral putter with a clean rim. Great for putting and straight approaches.",
-    url: "https://mvpdiscsports.com/anode/"
+    url: "https://infinitediscs.com/mvp-anode"
+  },
+
+  // ============================================================
+  // AXIOM DISCS
+  // ============================================================
+  {
+    id: 53,
+    name: "Tantrum",
+    brand: "Axiom Discs",
+    type: "Distance Driver",
+    speed: 13, glide: 5, turn: -1, fade: 3,
+    stability: "Overstable",
+    plastic: "Neutron, Proton, Plasma",
+    description: "Axiom's most overstable distance driver. Great for powerful forehand lines.",
+    url: "https://infinitediscs.com/axiom-tantrum"
+  },
+  {
+    id: 54,
+    name: "Mayhem",
+    brand: "Axiom Discs",
+    type: "Distance Driver",
+    speed: 13, glide: 6, turn: -2, fade: 2,
+    stability: "Understable",
+    plastic: "Neutron, Proton, Plasma",
+    description: "A high glide understable driver ideal for maximum distance and hyzer flips.",
+    url: "https://infinitediscs.com/axiom-mayhem"
   },
   {
     id: 55,
@@ -650,14 +622,12 @@ export const discs = [
     stability: "Neutral",
     plastic: "Neutron, Proton, Electron",
     description: "A straight flying putter with a comfortable feel and reliable finish. Very popular on tour.",
-    url: "https://mvpdiscsports.com/envy/"
+    url: "https://infinitediscs.com/axiom-envy"
   },
 
   // ============================================================
   // KASTAPLAST
   // ============================================================
-
-  // Kastaplast - Distance Drivers
   {
     id: 56,
     name: "Rask",
@@ -667,7 +637,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "K1, K1 Soft",
     description: "Kastaplast's premier distance driver with a neutral stable flight and great feel.",
-    url: "https://kastaplast.se/disc/rask/"
+    url: "https://infinitediscs.com/kastaplast-rask"
   },
   {
     id: 57,
@@ -678,7 +648,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "K1, K1 Soft, K3",
     description: "A powerful overstable distance driver. Reliable in wind and great for big forehand lines.",
-    url: "https://kastaplast.se/disc/grym/"
+    url: "https://infinitediscs.com/kastaplast-grym"
   },
   {
     id: 58,
@@ -689,7 +659,7 @@ export const discs = [
     stability: "Very Overstable",
     plastic: "K1, K3",
     description: "The more overstable sibling of the Grym. Extremely wind-resistant with a hard fade.",
-    url: "https://kastaplast.se/disc/grym-x/"
+    url: "https://infinitediscs.com/kastaplast-grym-x"
   },
   {
     id: 59,
@@ -700,7 +670,7 @@ export const discs = [
     stability: "Understable",
     plastic: "K1, K1 Soft, K3",
     description: "A smooth understable fairway driver. Great for turnovers and players with moderate arm speed.",
-    url: "https://kastaplast.se/disc/falk/"
+    url: "https://infinitediscs.com/kastaplast-falk"
   },
   {
     id: 60,
@@ -711,10 +681,8 @@ export const discs = [
     stability: "Overstable",
     plastic: "K1, K1 Soft, K3",
     description: "An overstable fairway driver great for headwinds and tight forehand lines.",
-    url: "https://kastaplast.se/disc/lots/"
+    url: "https://infinitediscs.com/kastaplast-lots"
   },
-
-  // Kastaplast - Midranges
   {
     id: 61,
     name: "Kaxe",
@@ -724,7 +692,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "K1, K1 Soft, K3",
     description: "Kastaplast's flagship midrange. Neutral flight with a predictable gentle fade.",
-    url: "https://kastaplast.se/disc/kaxe/"
+    url: "https://infinitediscs.com/kastaplast-kaxe"
   },
   {
     id: 62,
@@ -735,7 +703,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "K1, K3",
     description: "The overstable version of the Kaxe. Reliable in all conditions with a strong finish.",
-    url: "https://kastaplast.se/disc/kaxe-z/"
+    url: "https://infinitediscs.com/kastaplast-kaxe-z"
   },
   {
     id: 63,
@@ -746,10 +714,8 @@ export const discs = [
     stability: "Understable",
     plastic: "K1, K1 Soft",
     description: "A glidey understable midrange. Great for beginners and long straight approaches.",
-    url: "https://kastaplast.se/disc/svea/"
+    url: "https://infinitediscs.com/kastaplast-svea"
   },
-
-  // Kastaplast - Putters
   {
     id: 64,
     name: "Berg",
@@ -759,7 +725,7 @@ export const discs = [
     stability: "Very Overstable",
     plastic: "K1, K3",
     description: "The most overstable putter on the market. Built for forehand putts and spike hyzers.",
-    url: "https://kastaplast.se/disc/berg/"
+    url: "https://infinitediscs.com/kastaplast-berg"
   },
   {
     id: 65,
@@ -770,14 +736,12 @@ export const discs = [
     stability: "Neutral",
     plastic: "K1, K1 Soft, K3",
     description: "A popular neutral putter with a comfortable beadless rim and straight reliable flight.",
-    url: "https://kastaplast.se/disc/reko/"
+    url: "https://infinitediscs.com/kastaplast-reko"
   },
 
   // ============================================================
   // LATITUDE 64
   // ============================================================
-
-  // Latitude 64 - Distance Drivers
   {
     id: 66,
     name: "Missilen",
@@ -787,7 +751,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Opto, Gold, Royal Grand",
     description: "One of the fastest drivers in the Latitude 64 lineup. Built for maximum distance.",
-    url: "https://www.latitude64.se/discs/missilen/"
+    url: "https://infinitediscs.com/latitude-64-missilen"
   },
   {
     id: 67,
@@ -798,7 +762,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Opto, Gold",
     description: "A versatile high speed driver with a neutral flight. Great for big arms seeking control.",
-    url: "https://www.latitude64.se/discs/ballista-pro/"
+    url: "https://infinitediscs.com/latitude-64-ballista-pro"
   },
   {
     id: 68,
@@ -809,7 +773,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Opto, Gold, Frost",
     description: "A reliable overstable distance driver. One of the most popular discs in the Latitude lineup.",
-    url: "https://www.latitude64.se/discs/fury/"
+    url: "https://infinitediscs.com/latitude-64-fury"
   },
   {
     id: 69,
@@ -820,10 +784,8 @@ export const discs = [
     stability: "Neutral",
     plastic: "Opto, Gold, Frost",
     description: "A neutral distance driver with great glide. Excellent for straight lines and hyzer flips.",
-    url: "https://www.latitude64.se/discs/saint-pro/"
+    url: "https://infinitediscs.com/latitude-64-saint-pro"
   },
-
-  // Latitude 64 - Fairway Drivers
   {
     id: 70,
     name: "River",
@@ -833,7 +795,7 @@ export const discs = [
     stability: "Understable",
     plastic: "Opto, Gold, Frost, Zero",
     description: "One of the glidiest fairway drivers ever made. Perfect for beginners and long straight lines.",
-    url: "https://www.latitude64.se/discs/river/"
+    url: "https://infinitediscs.com/latitude-64-river"
   },
   {
     id: 71,
@@ -844,7 +806,7 @@ export const discs = [
     stability: "Understable",
     plastic: "Opto, Gold, Frost",
     description: "A smooth understable fairway driver great for turnovers and hyzer flips.",
-    url: "https://www.latitude64.se/discs/jade/"
+    url: "https://infinitediscs.com/latitude-64-jade"
   },
   {
     id: 72,
@@ -855,10 +817,8 @@ export const discs = [
     stability: "Neutral",
     plastic: "Opto, Gold, Frost, Zero",
     description: "A straight neutral fairway driver. Consistent and reliable for all types of shots.",
-    url: "https://www.latitude64.se/discs/compass/"
+    url: "https://infinitediscs.com/latitude-64-compass"
   },
-
-  // Latitude 64 - Midranges
   {
     id: 73,
     name: "Culprit",
@@ -868,7 +828,7 @@ export const discs = [
     stability: "Understable",
     plastic: "Opto, Gold, Zero",
     description: "A glidey understable midrange. Great for long straight approaches and turnovers.",
-    url: "https://www.latitude64.se/discs/culprit/"
+    url: "https://infinitediscs.com/latitude-64-culprit"
   },
   {
     id: 74,
@@ -879,10 +839,8 @@ export const discs = [
     stability: "Very Understable",
     plastic: "Opto, Zero",
     description: "An extremely understable midrange. Perfect for beginners or big hyzer flip lines.",
-    url: "https://www.latitude64.se/discs/keystone/"
+    url: "https://infinitediscs.com/latitude-64-keystone"
   },
-
-  // Latitude 64 - Putters
   {
     id: 75,
     name: "Pure",
@@ -892,7 +850,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "Opto, Gold, Zero, Frost",
     description: "One of the most popular putters in disc golf worldwide. Straight, comfortable, and versatile.",
-    url: "https://www.latitude64.se/discs/pure/"
+    url: "https://infinitediscs.com/latitude-64-pure"
   },
   {
     id: 76,
@@ -903,7 +861,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "Opto, Zero",
     description: "A reliable overstable putter for forehand approaches and windy conditions.",
-    url: "https://www.latitude64.se/discs/tug/"
+    url: "https://infinitediscs.com/latitude-64-tug"
   },
   {
     id: 77,
@@ -914,7 +872,7 @@ export const discs = [
     stability: "Very Overstable",
     plastic: "Opto, Zero",
     description: "An extremely overstable putter. Ideal for spike hyzers and hard forehand putts.",
-    url: "https://www.latitude64.se/discs/dagger/"
+    url: "https://infinitediscs.com/latitude-64-dagger"
   },
 
   // ============================================================
@@ -929,7 +887,7 @@ export const discs = [
     stability: "Overstable",
     plastic: "C-Line, S-Line, P-Line",
     description: "One of Discmania's most popular discs. A reliable overstable fairway driver.",
-    url: "https://discmania.net/disc-golf-discs/pd/"
+    url: "https://infinitediscs.com/discmania-pd"
   },
   {
     id: 79,
@@ -940,7 +898,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "C-Line, S-Line, P-Line",
     description: "A straight neutral fairway driver with excellent glide. Great for all skill levels.",
-    url: "https://discmania.net/disc-golf-discs/fd/"
+    url: "https://infinitediscs.com/discmania-fd"
   },
   {
     id: 80,
@@ -951,7 +909,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "C-Line, S-Line, P-Line",
     description: "A neutral midrange with great glide and versatility for all types of shots.",
-    url: "https://discmania.net/disc-golf-discs/md3/"
+    url: "https://infinitediscs.com/discmania-md3"
   },
   {
     id: 81,
@@ -962,7 +920,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "C-Line, S-Line, P-Line",
     description: "One of the most beloved putters in disc golf. Straight, comfortable, and consistent.",
-    url: "https://discmania.net/disc-golf-discs/p2/"
+    url: "https://infinitediscs.com/discmania-p2"
   },
 
   // ============================================================
@@ -977,7 +935,7 @@ export const discs = [
     stability: "Neutral",
     plastic: "SSS, Suregrip, Diamond, Evil",
     description: "A classic putter known for its soft feel and perfectly straight reliable flight.",
-    url: "https://www.gatewaydiscsports.com/wizard"
+    url: "https://infinitediscs.com/gateway-wizard"
   },
   {
     id: 83,
@@ -988,6 +946,6 @@ export const discs = [
     stability: "Overstable",
     plastic: "SSS, Suregrip, Diamond",
     description: "A slightly overstable putter great for windy conditions and forehand approaches.",
-    url: "https://www.gatewaydiscsports.com/voodoo"
+    url: "https://infinitediscs.com/gateway-voodoo"
   }
 ];

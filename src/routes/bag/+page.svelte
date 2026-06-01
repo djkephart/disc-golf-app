@@ -3,6 +3,8 @@
 
   let bag = $state([]);
 
+  let confirmClear = $state(false);
+
   onMount(() => {
     bag = JSON.parse(localStorage.getItem('disc-bag') || '[]');
   });
@@ -43,12 +45,17 @@
   <div class="flex items-center justify-between mb-2">
     <p class="text-green-400 text-sm font-semibold tracking-widest uppercase">My Bag</p>
     {#if bag.length > 0}
-      <button
-        onclick={clearBag}
-        class="text-gray-500 text-sm hover:text-red-400 transition-colors duration-200"
-      >
+    {#if confirmClear}
+        <div class="flex items-center gap-3">
+        <span class="text-gray-400 text-sm">Are you sure?</span>
+        <button onclick={clearBag} class="text-red-400 text-sm hover:text-red-300 transition-colors">Yes, clear</button>
+        <button onclick={() => confirmClear = false} class="text-gray-500 text-sm hover:text-gray-300 transition-colors">Cancel</button>
+        </div>
+    {:else}
+        <button onclick={() => confirmClear = true} class="text-gray-500 text-sm hover:text-red-400 transition-colors duration-200">
         Clear Bag
-      </button>
+        </button>
+    {/if}
     {/if}
   </div>
 

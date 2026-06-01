@@ -33,9 +33,28 @@
     scores[currentHole].score = val;
   }
 
-  function next() {
+function next() {
     if (currentHole < scores.length - 1) currentHole++;
-    else submitted = true;
+    else submitRound();
+  }
+
+  function submitRound() {
+    const round = {
+      id: Date.now(),
+      date: new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }),
+      course: selectedCourse.name,
+      location: selectedCourse.location,
+      holes: scores.length,
+      totalScore,
+      totalPar,
+      scoreDiff,
+      scores: scores.map(h => ({ hole: h.hole, par: h.par, score: h.score }))
+    };
+
+    const history = JSON.parse(localStorage.getItem('round-history') || '[]');
+    history.unshift(round);
+    localStorage.setItem('round-history', JSON.stringify(history));
+    submitted = true;
   }
 
   function prev() {
