@@ -1,13 +1,21 @@
-<script>import Navbar from '$lib/components/Navbar.svelte';
-import Footer from '$lib/components/Footer.svelte';
-import '../app.css';
+<script>
+  import Navbar from '$lib/components/Navbar.svelte';
+  import Footer from '$lib/components/Footer.svelte';
+  import { fade } from 'svelte/transition';
+  import { page } from '$app/stores';
+  import '../app.css';
 
-let { children } = $props();</script>
+  let { children } = $props();
+</script>
 
-<Navbar></Navbar>
+<Navbar />
 
 <main class="min-h-screen bg-[#0f1117] w-full">
-  {@render children()}
+  {#key $page.url.pathname}
+    <div in:fade={{ duration: 150, delay: 100 }}>
+      {@render children()}
+    </div>
+  {/key}
 </main>
 
-<Footer></Footer>
+<Footer />

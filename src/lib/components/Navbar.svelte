@@ -1,12 +1,14 @@
 <script>
   import { page } from '$app/stores';
 
-  const links = [
-    { href: '/', label: 'Home', icon: '🏠' },
-    { href: '/courses', label: 'Courses', icon: '🗺️' },
-    { href: '/scorecard', label: 'Scorecard', icon: '📋' },
-    { href: '/about', label: 'About', icon: 'ℹ️' }
-  ];
+const links = [
+  { href: '/', label: 'Home', icon: '🏠' },
+  { href: '/courses', label: 'Courses', icon: '🗺️' },
+  { href: '/scorecard', label: 'Scorecard', icon: '📋' },
+  { href: '/discs', label: 'Discs', icon: '🥏' },
+  { href: '/bag', label: 'My Bag', icon: '🎒' },
+  { href: '/about', label: 'About', icon: 'ℹ️' }
+];
 </script>
 
 <header class="bg-[#1a1d27] border-b border-white/10 w-full">
